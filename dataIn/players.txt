@@ -1,0 +1,6 @@
+﻿PlayerID;FirstName;LastName;BirthDate;TeamID
+1;Neymar;da Silva Santos Júnior;05-FEB-1992;1
+2;Thiago;Silva;22-SEP-1984;2
+3;Angel;Di Maria;14-FEB-1989;3
+4;Erling;Haaland;21-JUL-1992;5
+5;Marcus;Rashford;31-OCT-1997;4
